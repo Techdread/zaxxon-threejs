@@ -1,0 +1,17 @@
+{
+  "name": "zaxxon-threejs",
+  "version": "1.0.0",
+  "description": "A Three.js based game inspired by Zaxxon (1982)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.157.0"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
+}
